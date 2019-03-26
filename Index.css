@@ -1,0 +1,48 @@
+﻿body {
+    background-image: url('Content/Images/Wooden-Background-202.jpg');
+    background-color: antiquewhite;
+}
+
+.factorycontainer {
+    display: block;
+    position: absolute;
+    width: 280px;
+    height: auto;
+}
+
+.factoryimg {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+.tile {
+    position: absolute;
+    border-radius: 15%;
+    width: 25%;
+    height: 25%;
+}
+
+.tile0 {
+    top: 20%;
+    left: 20%;
+    background-color: red;
+}
+
+.tile1 {
+    top: 20%;
+    left: 55%;
+    background-color: black;
+}
+
+.tile2 {
+    top: 50%;
+    left: 20%;
+    background-color: black;
+}
+
+.tile3 {
+    top: 50%;
+    left: 55%;
+    background-color: blue;
+}
